@@ -7,6 +7,8 @@
 - Observability
 - Infra as Code
 - Site Reliability Engineering
+- Controller
+- Clean Code
 
 
 [![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-%23A9225C?logo=kubernetes&logoColor=white)](https://www.credly.com/badges/8ccd47b5-18f3-4252-bcab-0833b31e22f6)
